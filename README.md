@@ -12,7 +12,7 @@
 
 ### Deliverable 1: Retrieving Weather Data
 
-Open Weather API Data Frame
+#### Open Weather API Data Frame
 
 ![Deliverable1](https://github.com/chrisknox97/world_weather_analysis/blob/main/additional_png/Deliverable1_df.png)
 
@@ -22,7 +22,7 @@ Open Weather API Data Frame
 
 ### Deliverable 2: Customer Travel Destinations Map
 
-Preferred Vacation Destinations Map
+#### Preferred Vacation Destinations Map
 
 ![Deliverable2](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
@@ -32,15 +32,15 @@ Preferred Vacation Destinations Map
 
 ### Deliverable 3: Travel Itinerary Map
 
-Travel Route Map
+#### Travel Route Map
 
 ![Deliverable3A](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
 
-Selected Cities Data Frame
+#### Selected Cities Data Frame
 
 ![Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/additional_png/Deliverable3_df.png)
 
-Travel Area Map
+#### Travel Area Map
 
 ![Deliverable3C](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
 
