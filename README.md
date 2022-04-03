@@ -6,7 +6,7 @@
 
 ### Deliverable 2: To use aquired data from Deliverable 1 to filter our selected cities for temperature preferences, and then locate the nearest accomodation using [Googe Places API](https://developers.google.com/maps/documentation/places/web-service/overview). 
 
-### Deliverable 3: To create a travel itinerary of four relatively close cities featured in Deliverable 2, displaying a potential travel route by ``driving``, ``biciclying``, or ``walking`` in a Google Map, as well as each cities weather and hotel information using [Google Directions API](https://developers.google.com/maps/documentation/directions/overview)
+### Deliverable 3: To create a travel itinerary of four relatively close cities featured in Deliverable 2, displaying a potential travel route by ``driving``, ``biciclying``, or ``walking`` in a Google Map, as well as each city's weather and hotel information using [Google Directions API](https://developers.google.com/maps/documentation/directions/overview)
 
 ## Results
 
