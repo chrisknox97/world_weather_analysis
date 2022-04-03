@@ -11,3 +11,43 @@
 ## Results
 
 ### Deliverable 1: Retrieving Weather Data
+
+Open Weather API Data Frame
+
+![Deliverable1](https://github.com/chrisknox97/world_weather_analysis/blob/main/additional_png/Deliverable1_df.png)
+
+* The Python script written to create this Data Frame can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/weather_data/Weather_Database_Deliverable1.ipynb)
+
+* A ``.csv`` file contaning this data can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/weather_data/WeatherPy_Database.csv)
+
+### Deliverable 2: Customer Travel Destinations Map
+
+Preferred Vacation Destinations Map
+
+[Deliverable2](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
+
+* The Python script written to create this Google Map can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/Vacation_Search_Deliverable2.ipynb)
+
+* A ``.csv`` file contaning this data can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/weatherpy_vacation.csv)
+
+### Deliverable 3: Travel Itinerary Map
+
+Travel Route Map
+
+[Deliverable3A](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
+
+Travel Area Map
+
+[Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+
+* The Python script written to create this Google Map can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/Vacation_Itinerary_Deliverable3.ipynb)
+
+## Summary
+
+### Making API calls can be a quick and efficent method to retrieving compiled and stored data to which you can use for further analysis and visual depiction. 
+
+
+
+
+
+
