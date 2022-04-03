@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-### Deliverable 1: To select 2,000 randomized latitudinal and longitudinal points and find the nearest city using the ``citipy`` module; using an API call to [Open Weather API](https://openweathermap.org/api) to retrieve current weather data for those cities. 
+### Deliverable 1: To select 2,000 randomized latitudinal and longitudinal points to find the nearest city using the ``citipy`` module; and to make an API call to [Open Weather API](https://openweathermap.org/api) to retrieve current weather data for those cities. 
 
 ### Deliverable 2: To use aquired data from Deliverable 1 to locate the nearest cities to randomized locational points, filter said cities for temperature preferences, and then locate the nearest accomodation using [Googe Places API](https://developers.google.com/maps/documentation/places/web-service/overview). 
 
