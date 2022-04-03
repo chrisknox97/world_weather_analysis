@@ -36,9 +36,13 @@ Travel Route Map
 
 ![Deliverable3A](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
 
+Selected Cities Data Frame
+
+![Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/additional_png/Deliverable3_df.png)
+
 Travel Area Map
 
-![Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Deliverable3C](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
 
 * The Python script written to create this Google Map can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/Vacation_Itinerary_Deliverable3.ipynb)
 
