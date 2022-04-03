@@ -24,7 +24,7 @@ Open Weather API Data Frame
 
 Preferred Vacation Destinations Map
 
-[Deliverable2](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
+![Deliverable2](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
 * The Python script written to create this Google Map can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_search/Vacation_Search_Deliverable2.ipynb)
 
@@ -34,11 +34,11 @@ Preferred Vacation Destinations Map
 
 Travel Route Map
 
-[Deliverable3A](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
+![Deliverable3A](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
 
 Travel Area Map
 
-[Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Deliverable3B](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
 
 * The Python script written to create this Google Map can be accessed [here](https://github.com/chrisknox97/world_weather_analysis/blob/main/vacation_itinerary/Vacation_Itinerary_Deliverable3.ipynb)
 
