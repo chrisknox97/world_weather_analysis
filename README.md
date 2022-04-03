@@ -48,7 +48,7 @@
 
 ## Summary
 
-### Making API calls can be a quick and efficent method for retrieving compiled and stored cloud data in a matter of seconds. As such, it represents an integral tool for data analysts, who can use it for throrough and brisk analysis. In particular, ``Google APIs`` ease of use and ability to provide clear visual depictions of locational data make it especially useful resource. 
+### Making API calls can be a quick and efficent method for retrieving compiled and stored cloud data in a matter of seconds. As such, it represents an integral tool for data analysts, who can use it for throrough and brisk analysis. In particular, ``Google APIs'`` ease of use and its ability to provide clear visual depictions of locational data make it an especially useful resource. 
 
 
 
